@@ -8,4 +8,5 @@
   - Refers to a time series that consists of multiple (scalar) observations recorded sequentially over equal time increments.
   
 ## Current Version
- - Currently, we provide univariate forecasting. In future, more TSF tasks will be uploaded soon.
+ - TSAF part 1 is univartiate forecasting
+ - TSAF part 2 is multivariate forecasting
